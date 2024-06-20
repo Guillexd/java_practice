@@ -1,4 +1,4 @@
 # Maven target directory
-demo/target/
+/demo/target/
 # VS Code specific files
 .vscode/
